@@ -13,26 +13,23 @@ Cypher Crypto-Machine is a simple Python-based encryption and decryption tool th
 4. The encrypted or decrypted text will be displayed.
 
 ## Examples uses
-### Caesar Cipher
-Cipher Technique: Caesar Cipher
-Enter text: Hello, World!
-Enter shift value: 3
+1. Caesar Cipher
+- Cipher Technique: Caesar Cipher
+- Enter text: Hello, World!
+- Enter shift value: 3
+>> Encrypted: Khoor, Zruog!
 
-Encrypted: Khoor, Zruog!
-
-### Using Substitution Cipher
-Cipher Technique: Substitution Cipher
-Enter text: Hello, World!
-Enter substitution key: qazwsxedcrfvtgbyhnujmikolp
-
-Encrypted: Ittgi, Yvnig!
+2. Using Substitution Cipher
+- Cipher Technique: Substitution Cipher
+- Enter text: Hello, World!
+- Enter substitution key: qazwsxedcrfvtgbyhnujmikolp
+>> Encrypted: Ittgi, Yvnig!
 
 ### Vigenère Cipher
-Cipher Technique: Vigenère Cipher
-Enter text: Hello, World!
-Enter keyword: KEY
-
-Encrypted: Rioga, Utmij!
+- Cipher Technique: Vigenère Cipher
+- Enter text: Hello, World!
+- Enter keyword: KEY
+>> Encrypted: Rioga, Utmij!
 
 ## Acknowledgements
 - The Cypher Crypto-Machine project was inspired by the desire to learn and implement various cypher techniques.
